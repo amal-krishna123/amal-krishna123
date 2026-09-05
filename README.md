@@ -1,35 +1,62 @@
 <div align="center">
 
-# Amal Krishna Asok
+<pre>
+$ whoami
+</pre>
 
-Backend · Cloud · Machine Learning
+<h1>Amal Krishna Asok</h1>
 
-[Email](mailto:amalasok821@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/amal-krishna123)
+<sub>backend · cloud · machine learning</sub>
+
+<br/><br/>
+
+<a href="mailto:amalkrishnaasok.mec@gmail.com">email</a> &nbsp;/&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">linkedin</a> &nbsp;/&nbsp;
+<a href="https://github.com/amal-krishna123">github</a>
 
 </div>
 
 <br/>
 
-BTech grad focusing on building backend systems and cloud-native pipelines, with a growing focus on applied ML.
+```
+build   → scalable backend systems & cloud-native pipelines
+explore → applied machine learning
+based   → Kochi, India
+```
 
-- **EasyStream** — async video transcoding pipeline with adaptive bitrate streaming
-- **Musily** — real-time music streaming platform
-- **ClearSight** — lightweight NAFNet model for image restoration under adverse weather
+---
 
 <br/>
 
-## Stack
+**now**
 
-`Python` `Java` `C++` `JavaScript` `TypeScript`
-`Node.js` `React` `FastAPI` `Redis` `MongoDB`
-`AWS` `Docker`
-`PyTorch` `OpenCV`
+`EasyStream` — async video transcoding, adaptive bitrate streaming
+`Musily` — real-time music streaming platform
+`ClearSight` — lightweight vision model for image restoration
+
+<br/>
+
+**stack**
+
+<sub>
+
+python · java · c++ · javascript · typescript
+node · react · fastapi · redis · mongodb
+aws · docker
+pytorch · opencv
+
+</sub>
+
+<br/>
+
+---
 
 <br/>
 
 <div align="center">
+<sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&theme=minimal&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&theme=minimal&hide_border=true&hide_title=true" width="30%" />
+![](https://github-readme-stats.vercel.app/api?username=amal-krishna123&hide_title=true&hide_border=true&show_icons=false&text_color=333&icon_color=333&title_color=333&bg_color=00000000)
 
+</sub>
 </div>
