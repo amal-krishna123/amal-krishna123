@@ -1,54 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:87CEEB,50:E8A87C,100:F4A460&height=170&section=header&text=Amal%20Krishna%20Asok&fontSize=36&fontColor=2C3E50&fontAlignY=42&animation=fadeIn&desc=backend%20%C2%B7%20cloud%20%C2%B7%20machine%20learning&descAlignY=62&descSize=16&descColor=2C3E50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1A1A1A&height=160&section=header&text=AMAL%20KRISHNA%20ASOK&fontSize=38&fontColor=00D9FF&fontAlignY=42&desc=%5B%20BACKEND%20%2F%2F%20CLOUD%20%2F%2F%20MACHINE%20LEARNING%20%5D&descAlignY=65&descSize=15&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=16&duration=3500&pause=1200&color=4A7C7C&center=true&vCenter=true&width=560&lines=building+quiet%2C+sturdy+systems...;growing+ideas+into+working+code...;chasing+curiosity+into+the+cloud..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&height=35&lines=%3E+ghost+detected+in+the+shell...;%3E+initializing+cyberbrain...;%3E+syncing+with+the+net..." alt="typing" />
 
 </div>
 
 <br/>
 
-### 🌿 &nbsp;field notes
+<div align="center">
+<img src="https://img.shields.io/badge/SECTION_9-STANDBY-1A1A1A?style=flat-square&labelColor=00D9FF&color=1A1A1A" />
+<img src="https://img.shields.io/badge/CLASS-CS_ENGINEER-1A1A1A?style=flat-square&labelColor=EAEAEA&color=1A1A1A" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-1A1A1A?style=flat-square&labelColor=00D9FF&color=1A1A1A" />
+</div>
+
+<br/>
+
+### ⟢ &nbsp;dossier
 
 ```
-place    : Kochi, Kerala — Govt. Model Engineering College '26
-role     : full-stack / backend developer
-drawn to : backend systems, cloud infrastructure, machine learning
-right now: shipping async pipelines, training small vision models
+> access_log --user amal_krishna
+  designation : full-stack / backend developer
+  specialty   : backend systems · cloud infra · machine learning
+  current_op  : building async pipelines, training vision models
+  location    : Kochi, Kerala — Govt. Model Engineering College '26
 ```
 
 <br/>
 
-### 🍃 &nbsp;tools of the trade
+### ⟢ &nbsp;cybernetic loadout
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,nodejs,express,fastapi,react&theme=light&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,nodejs,express,fastapi,react&theme=dark&perline=9" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,redis,git,github&theme=light&perline=9" />
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,redis,git,github&theme=dark&perline=9" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light&perline=9" />
-<img src="https://img.shields.io/badge/NumPy-F4A460?style=flat-square&logo=numpy&logoColor=2C3E50&labelColor=FFF8E7" />
-<img src="https://img.shields.io/badge/CUDA-87CEEB?style=flat-square&logo=nvidia&logoColor=2C3E50&labelColor=FFF8E7" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark&perline=9" />
+<img src="https://img.shields.io/badge/NumPy-00D9FF?style=flat-square&logo=numpy&logoColor=1A1A1A&labelColor=1A1A1A" />
+<img src="https://img.shields.io/badge/CUDA-EAEAEA?style=flat-square&logo=nvidia&logoColor=1A1A1A&labelColor=1A1A1A" />
 
 </div>
 
 <br/>
 
-### 🎐 &nbsp;little things I've built
+### ⟢ &nbsp;mission archive
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**⛅ EasyStream**
+**⟣ EasyStream**
 async video pipeline · multi-res transcoding · ABR streaming
 `React` `Node` `Redis` `S3` `FFmpeg` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**🎵 Musily**
+**⟣ Musily**
 real-time music streaming platform w/ live sockets
 `React` `Node` `MongoDB` `Socket.io` `TS`
 
@@ -57,14 +66,14 @@ real-time music streaming platform w/ live sockets
 <tr>
 <td width="50%" valign="top">
 
-**🌧️ ClearSight**
+**⟣ ClearSight**
 pruned NAFNet restoring images through rain / haze / fog
 `PyTorch` `CUDA` `OpenCV` `TensorBoard`
 
 </td>
 <td width="50%" valign="top">
 
-**🌾 Sayone — Internship**
+**⟣ Sayone — Internship**
 internal CRM workflows + AI integration
 `JS` `React` `Python` `FastAPI`
 
@@ -74,25 +83,25 @@ internal CRM workflows + AI integration
 
 <br/>
 
-### 📖 &nbsp;a page from the stats book
+### ⟢ &nbsp;net activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&hide_border=true&bg_color=FFF8E7&title_color=4A7C7C&icon_color=E8A87C&text_color=2C3E50&hide_rank=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&hide_border=true&bg_color=FFF8E7&title_color=4A7C7C&text_color=2C3E50&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=00D9FF&icon_color=00D9FF&text_color=EAEAEA&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=00D9FF&text_color=EAEAEA" width="40%" />
 
 </div>
 
 <br/>
 
-### 🌤️ &nbsp;find me in the wind
+### ⟢ &nbsp;comm channels
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-FFF8E7?style=flat-square&logo=linkedin&logoColor=4A7C7C&labelColor=FFF8E7" /></a>
-<a href="mailto:amalkrishnaasok.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFF8E7?style=flat-square&logo=gmail&logoColor=E8A87C&labelColor=FFF8E7" /></a>
-<a href="https://github.com/amal-krishna123"><img src="https://img.shields.io/badge/-GitHub-FFF8E7?style=flat-square&logo=github&logoColor=2C3E50&labelColor=FFF8E7" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=00D9FF&labelColor=1A1A1A" /></a>
+<a href="mailto:amalkrishnaasok.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=00D9FF&labelColor=1A1A1A" /></a>
+<a href="https://github.com/amal-krishna123"><img src="https://img.shields.io/badge/-GitHub-1A1A1A?style=flat-square&logo=github&logoColor=00D9FF&labelColor=1A1A1A" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F4A460,50:E8A87C,100:87CEEB&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:0D0D0D&height=80&section=footer" width="100%"/>
