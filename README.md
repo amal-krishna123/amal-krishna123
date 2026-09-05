@@ -1,62 +1,46 @@
 <div align="center">
 
-<pre>
-$ whoami
-</pre>
+<sub>／ BACKEND ／ CLOUD ／ MACHINE LEARNING ／</sub>
 
-<h1>Amal Krishna Asok</h1>
+<br/>
 
-<sub>backend · cloud · machine learning</sub>
+# A M A L &nbsp; K R I S H N A &nbsp; A S O K
 
-<br/><br/>
-
-<a href="mailto:amalkrishnaasok.mec@gmail.com">email</a> &nbsp;/&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">linkedin</a> &nbsp;/&nbsp;
-<a href="https://github.com/amal-krishna123">github</a>
+<img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=1&section=header&width=100%" />
 
 </div>
 
 <br/>
 
+CS undergrad who builds backend systems and cloud pipelines, and is teaching them to think a little — currently exploring applied ML.
+
+<br/>
+
+### Now
+
 ```
-build   → scalable backend systems & cloud-native pipelines
-explore → applied machine learning
-based   → Kochi, India
+→ EasyStream    async video pipeline, multi-res transcoding, ABR
+→ Musily        real-time music streaming platform
+→ ClearSight    NAFNet model, image restoration in adverse weather
 ```
 
----
+<br/>
+
+### Stack
+
+```
+backend      Node.js · Express · FastAPI · Redis
+cloud        AWS · Docker
+ml           PyTorch · OpenCV
+languages    Python · Java · C++ · TypeScript
+```
 
 <br/>
 
-**now**
+### Elsewhere
 
-`EasyStream` — async video transcoding, adaptive bitrate streaming
-`Musily` — real-time music streaming platform
-`ClearSight` — lightweight vision model for image restoration
+<sub>[email](mailto:amalkrishnaasok.mec@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [github](https://github.com/YOUR_GITHUB_USERNAME)</sub>
 
 <br/>
 
-**stack**
-
-<sub>
-
-python · java · c++ · javascript · typescript
-node · react · fastapi · redis · mongodb
-aws · docker
-pytorch · opencv
-
-</sub>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<sub>
-
-![](https://github-readme-stats.vercel.app/api?username=amal-krishna123&hide_title=true&hide_border=true&show_icons=false&text_color=333&icon_color=333&title_color=333&bg_color=00000000)
-
-</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=1&section=footer&width=100%" />
