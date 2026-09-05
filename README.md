@@ -12,7 +12,7 @@
 
 <br/>
 
-CS undergrad who builds backend systems and cloud pipelines, and is teaching them to think a little — currently exploring applied ML.
+CS graduate who builds backend systems and cloud pipelines — currently exploring applied ML.
 
 <br/>
 
@@ -20,7 +20,7 @@ CS undergrad who builds backend systems and cloud pipelines, and is teaching the
 
 ```
 → EasyStream    async video pipeline, multi-res transcoding, ABR
-→ Musily        real-time music streaming platform
+→ ML-platform   dynamic distributed inference platform
 → ClearSight    NAFNet model, image restoration in adverse weather
 ```
 
@@ -39,12 +39,12 @@ languages    Python · Java · C++ · TypeScript
 
 ### Elsewhere
 
-<sub>[email](mailto:amalkrishnaasok.mec@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [github](https://github.com/YOUR_GITHUB_USERNAME)</sub>
+<sub>[email](mailto:amalkrishnaasok.mec@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [github](https://github.com/amal-krishna123)</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=555&icon_color=555&title_color=555" height="120" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=555&title_color=555" height="120" />
+<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=555&icon_color=555&title_color=555" height="120" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=555&title_color=555" height="120" />
 
 <br/><br/>
 
