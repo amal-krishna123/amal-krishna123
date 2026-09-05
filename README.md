@@ -1,51 +1,33 @@
 <div align="center">
 
-<sub>／ BACKEND ／ CLOUD ／ MACHINE LEARNING ／</sub>
+<sub>BACKEND SYSTEMS&nbsp;&nbsp; / &nbsp;&nbsp;CLOUD PIPELINES&nbsp;&nbsp; / &nbsp;&nbsp;APPLIED ML</sub>
 
-<br/>
+<br><br>
 
-# A M A L &nbsp; K R I S H N A &nbsp; A S O K
+# AMAL KRISHNA ASOK
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=1&section=header&width=100%" />
+<sub>CS graduate building infrastructure for media, models, and everything between.</sub>
 
 </div>
 
-<br/>
+<br>
 
-CS graduate who builds backend systems and cloud pipelines — currently exploring applied ML.
+---
 
-<br/>
+### 01 / CURRENTLY BUILDING
 
-### Now
+| project | what it is |
+| :--- | :--- |
+| **EasyStream** | Async video pipeline with multi-resolution transcoding and adaptive bitrate streaming. |
+| **ML-platform** | Dynamic distributed inference platform for deploying and scaling models. |
+| **ClearSight** | NAFNet-based image restoration for adverse weather conditions. |
 
-```
-→ EasyStream    async video pipeline, multi-res transcoding, ABR
-→ ML-platform   dynamic distributed inference platform
-→ ClearSight    NAFNet model, image restoration in adverse weather
-```
+### 02 / WORKING WITH
 
-<br/>
+`Python` &nbsp; `Java` &nbsp; `C++` &nbsp; `TypeScript`<br>
+`Node.js` &nbsp; `Express` &nbsp; `FastAPI` &nbsp; `Redis`<br>
+`AWS` &nbsp; `Docker` &nbsp; `PyTorch` &nbsp; `OpenCV`
 
-### Stack
+### 03 / ELSEWHERE
 
-```
-backend      Node.js · Express · FastAPI · Redis
-cloud        AWS · Docker
-ml           PyTorch · OpenCV
-languages    Python · Java · C++ · TypeScript
-```
-
-<br/>
-
-### Elsewhere
-
-<sub>[email](mailto:amalkrishnaasok.mec@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [github](https://github.com/amal-krishna123)</sub>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=555&icon_color=555&title_color=555" height="120" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=555&title_color=555" height="120" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=1&section=footer&width=100%" />
+[email](mailto:amalkrishnaasok.mec@gmail.com)&nbsp;&nbsp; / &nbsp;&nbsp;[github](https://github.com/amal-krishna123)
