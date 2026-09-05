@@ -18,11 +18,10 @@ root@amal:~$ whoami
 $ cat about.txt
 ```
 
-Final year CS student at Govt. Model Engineering College. Most of what I build
+BTech graduate from MEC here. Most of what I build 
 sits somewhere between backend and infra — APIs, pipelines, the stuff that
 runs after the request hits the server. Picked up ML along the way because
-one of my projects needed a model that could actually run on limited compute,
-not just look good in a notebook.
+that too seems interesting.
 
 Not big on buzzwords. Prefer things that work over things that sound good.
 
@@ -32,10 +31,10 @@ Not big on buzzwords. Prefer things that work over things that sound good.
 $ ls stack/
 ```
 
-**backend** — Node.js, Express, FastAPI, Java, Python, C++
-**cloud / infra** — AWS, Docker, Redis, MongoDB
+**backend** — Node.js, Express, FastAPI, Python
+**cloud** — AWS, Docker, Redis, MongoDB
 **ml** — PyTorch, OpenCV, CUDA, NumPy, TensorBoard
-**languages** — JavaScript, TypeScript, Python, Java, C++
+**languages** — Python, Java, JavaScript, TypeScript,  C++
 
 <div align="center">
 
