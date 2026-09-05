@@ -1,37 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:8A2BE2,100:00FFFF&height=190&section=header&text=AMAL%20KRISHNA%20ASOK&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=%E2%96%B6%20REC%20%2F%2F%20backend%20%C3%97%20cloud%20%C3%97%20ml&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9E400,50:00F0FF,100:1A1A2E&height=180&section=header&text=AMAL%20KRISHNA%20ASOK&fontSize=42&fontColor=0D0D0D&fontAlignY=38&animation=fadeIn&desc=%3C%20backend%20%C3%97%20cloud%20%C3%97%20ml%20%2F%3E&descAlignY=58&descSize=18&descColor=1A1A2E" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=560&height=40&lines=%E2%96%B6+PLAY+...+loading+profile.tape;%E2%97%89+REC+...+backend+systems+online;%E2%96%AA%E2%96%AA+TRACKING+...+cloud+%2B+ml+modules" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F9E400&center=true&vCenter=true&width=560&height=40&lines=welcome+to+my+terminal_;compiling+backend+systems...;training+neural+nets...;deploying+to+the+cloud..." alt="typing" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-%E2%96%B6%20PLAY-0d1117?style=flat-square&labelColor=FF00FF&color=0d1117" />
-<img src="https://img.shields.io/badge/-CH.%2003%20%2F%20CS%20ENGINEER-0d1117?style=flat-square&labelColor=8A2BE2&color=0d1117" />
-<img src="https://img.shields.io/badge/-TRACKING%3A%20FINAL%20YEAR-0d1117?style=flat-square&labelColor=00FFFF&color=0d1117" />
+<img src="https://img.shields.io/badge/-STATUS%3A%20ONLINE-1A1A2E?style=flat-square&labelColor=F9E400&color=1A1A2E" />
+<img src="https://img.shields.io/badge/-CLASS%3A%20CS%20ENGINEER-1A1A2E?style=flat-square&labelColor=00F0FF&color=1A1A2E" />
+<img src="https://img.shields.io/badge/-LEVEL%3A%20FINAL%20YEAR-1A1A2E?style=flat-square&labelColor=F9E400&color=1A1A2E" />
 </div>
 
 <br/>
 
-### 📼 &nbsp;TAPE.LOG
+### 📼 &nbsp;profile.log
 
 ```
-[ REWINDING... ]
-
+> loading character_sheet.yaml
   role        : full-stack / backend developer
   affinities  : backend systems, cloud infra, machine learning
-  now_playing : async pipelines + vision model training
+  currently   : building async pipelines + training vision models
   origin      : Kochi, Kerala — Govt. Model Engineering College '26
-
-[ ▶ PLAY ]
 ```
 
 <br/>
 
-### 📺 &nbsp;SIGNAL // skills
+### 🕹️ &nbsp;equipped skills
 
 <div align="center">
 
@@ -40,27 +37,27 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,redis,git,github&theme=dark&perline=9" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark&perline=9" />
-<img src="https://img.shields.io/badge/NumPy-FF00FF?style=flat-square&logo=numpy&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CUDA-8A2BE2?style=flat-square&logo=nvidia&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NumPy-F9E400?style=flat-square&logo=numpy&logoColor=1A1A2E&labelColor=1A1A2E" />
+<img src="https://img.shields.io/badge/CUDA-00F0FF?style=flat-square&logo=nvidia&logoColor=1A1A2E&labelColor=1A1A2E" />
 
 </div>
 
 <br/>
 
-### 🎞️ &nbsp;FEATURED TAPES
+### 🗡️ &nbsp;quest log — featured builds
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**◉ EasyStream**
+**⟢ EasyStream**
 async video pipeline · multi-res transcoding · ABR streaming
 `React` `Node` `Redis` `S3` `FFmpeg` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**◉ Musily**
+**⟢ Musily**
 real-time music streaming platform w/ live sockets
 `React` `Node` `MongoDB` `Socket.io` `TS`
 
@@ -69,14 +66,14 @@ real-time music streaming platform w/ live sockets
 <tr>
 <td width="50%" valign="top">
 
-**◉ ClearSight**
+**⟢ ClearSight**
 pruned NAFNet restoring images through rain / haze / fog
 `PyTorch` `CUDA` `OpenCV` `TensorBoard`
 
 </td>
 <td width="50%" valign="top">
 
-**◉ Sayone — Internship**
+**⟢ Sayone — Internship**
 internal CRM workflows + AI integration
 `JS` `React` `Python` `FastAPI`
 
@@ -86,27 +83,29 @@ internal CRM workflows + AI integration
 
 <br/>
 
-### 📊 &nbsp;PLAYBACK STATS
+### 📊 &nbsp;stat.sheet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&icon_color=00FFFF&text_color=EAEAEA&ring_color=8A2BE2" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&text_color=EAEAEA&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=F9E400&icon_color=00F0FF&text_color=EAEAEA&ring_color=F9E400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=F9E400&text_color=EAEAEA&langs_count=8" width="42%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0D0D&ring=8A2BE2&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=EAEAEA&dates=EAEAEA" width="60%" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-krishna123&hide_border=true&background=1A1A2E&stroke=F9E400&ring=00F0FF&fire=F9E400&currStreakLabel=00F0FF&sideLabels=EAEAEA&dates=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA" width="60%" />
 
 </div>
 
 <br/>
 
-### 📡 &nbsp;TRANSMISSION CHANNELS
+### 📡 &nbsp;transmission channels
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FFFF&labelColor=0d1117" /></a>
-<a href="mailto:amalkrishnaasok.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=FF00FF&labelColor=0d1117" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=8A2BE2&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-1A1A2E?style=flat-square&logo=linkedin&logoColor=00F0FF&labelColor=1A1A2E" /></a>
+<a href="mailto:amalkrishnaasok.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1A1A2E?style=flat-square&logo=gmail&logoColor=F9E400&labelColor=1A1A2E" /></a>
+<a href="https://github.com/amal-krishna123"><img src="https://img.shields.io/badge/-GitHub-1A1A2E?style=flat-square&logo=github&logoColor=EAEAEA&labelColor=1A1A2E" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:00F0FF,100:F9E400&height=100&section=footer" width="100%"/>
