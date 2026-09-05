@@ -66,10 +66,6 @@ fog. Team of 4, two weeks, mostly spent fighting OOM errors and tuning the
 cosine annealing schedule until it actually converged.
 `pytorch · cuda · opencv · lmdb · tensorboard`
 
-**sayone (internship)** — one month, internal CRM tooling, first real exposure
-to shipping code that other people depended on.
-`javascript · react · python · fastapi`
-
 <br/>
 
 ```
@@ -89,9 +85,13 @@ $ ./stats.sh
 $ cat contact.txt
 ```
 
-email — amalkrishnaasok.mec@gmail.com
-linkedin — linkedin.com/in/YOUR_LINKEDIN
-github — github.com/amal-krishna123
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=2ED9FF&labelColor=0d1117" /></a>
+<a href="mailto:amalkrishnaasok.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=FF2E92&labelColor=0d1117" /></a>
+<a href="https://github.com/amal-krishna123"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=B24BF3&labelColor=0d1117" /></a>
+
+</div>
 
 <div align="center">
 <br/>
