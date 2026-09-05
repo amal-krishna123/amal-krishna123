@@ -41,6 +41,11 @@ languages    Python · Java · C++ · TypeScript
 
 <sub>[email](mailto:amalkrishnaasok.mec@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [github](https://github.com/YOUR_GITHUB_USERNAME)</sub>
 
-<br/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=555&icon_color=555&title_color=555" height="120" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=555&title_color=555" height="120" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=1&section=footer&width=100%" />
