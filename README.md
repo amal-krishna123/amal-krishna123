@@ -56,9 +56,9 @@ $ ls projects/
 streaming. Redis-backed job queue, S3 storage, Docker for the worker processes.
 `react · node · redis · s3 · ffmpeg · docker`
 
-**musily** — music streaming app with real-time features over sockets, playlist
-management, auth. Built solo, still adding to it.
-`react · node · mongodb · socket.io · typescript`
+**ml-platform** — distributed inference platform, async batch prototype. Queue based 
+aggregation and timeout thresholds to improve throughput.
+`fastapi · python · docker · aws · redis · pytorch`
 
 **clearsight** — trained a pruned NAFNet to clean up images shot in rain, haze,
 fog. Team of 4, two weeks, mostly spent fighting OOM errors and tuning the
@@ -73,8 +73,10 @@ $ ./stats.sh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&icon_color=00FF41&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&hide_title=true" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-krishna123&theme=chartreuse-dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
 
 </div>
 
