@@ -1,107 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1A1A1A&height=160&section=header&text=AMAL%20KRISHNA%20ASOK&fontSize=38&fontColor=00D9FF&fontAlignY=42&desc=%5B%20BACKEND%20%2F%2F%20CLOUD%20%2F%2F%20MACHINE%20LEARNING%20%5D&descAlignY=65&descSize=15&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&height=35&lines=%3E+ghost+detected+in+the+shell...;%3E+initializing+cyberbrain...;%3E+syncing+with+the+net..." alt="typing" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/SECTION_9-STANDBY-1A1A1A?style=flat-square&labelColor=00D9FF&color=1A1A1A" />
-<img src="https://img.shields.io/badge/CLASS-CS_ENGINEER-1A1A1A?style=flat-square&labelColor=EAEAEA&color=1A1A1A" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-1A1A1A?style=flat-square&labelColor=00D9FF&color=1A1A1A" />
-</div>
-
-<br/>
-
-### ⟢ &nbsp;dossier
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&width=800"/>
 
 ```
-> access_log --user amal_krishna
-  designation : full-stack / backend developer
-  specialty   : backend systems · cloud infra · machine learning
-  current_op  : building async pipelines, training vision models
-  location    : Kochi, Kerala — Govt. Model Engineering College '26
+root@amal:~$ whoami
 ```
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=600&lines=amal+krishna+asok;cs+student+%2F+backend+%2B+cloud+%2B+ml;kochi%2C+india" alt="typing" />
 
-### ⟢ &nbsp;cybernetic loadout
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,nodejs,express,fastapi,react&theme=dark&perline=9" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,redis,git,github&theme=dark&perline=9" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark&perline=9" />
-<img src="https://img.shields.io/badge/NumPy-00D9FF?style=flat-square&logo=numpy&logoColor=1A1A1A&labelColor=1A1A1A" />
-<img src="https://img.shields.io/badge/CUDA-EAEAEA?style=flat-square&logo=nvidia&logoColor=1A1A1A&labelColor=1A1A1A" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&width=800"/>
 
 </div>
 
 <br/>
 
-### ⟢ &nbsp;mission archive
+```
+$ cat about.txt
+```
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+Final year CS student at Govt. Model Engineering College. Most of what I build
+sits somewhere between backend and infra — APIs, pipelines, the stuff that
+runs after the request hits the server. Picked up ML along the way because
+one of my projects needed a model that could actually run on limited compute,
+not just look good in a notebook.
 
-**⟣ EasyStream**
-async video pipeline · multi-res transcoding · ABR streaming
-`React` `Node` `Redis` `S3` `FFmpeg` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-**⟣ Musily**
-real-time music streaming platform w/ live sockets
-`React` `Node` `MongoDB` `Socket.io` `TS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⟣ ClearSight**
-pruned NAFNet restoring images through rain / haze / fog
-`PyTorch` `CUDA` `OpenCV` `TensorBoard`
-
-</td>
-<td width="50%" valign="top">
-
-**⟣ Sayone — Internship**
-internal CRM workflows + AI integration
-`JS` `React` `Python` `FastAPI`
-
-</td>
-</tr>
-</table>
+Not big on buzzwords. Prefer things that work over things that sound good.
 
 <br/>
 
-### ⟢ &nbsp;net activity
+```
+$ ls stack/
+```
+
+**backend** — Node.js, Express, FastAPI, Java, Python, C++
+**cloud / infra** — AWS, Docker, Redis, MongoDB
+**ml** — PyTorch, OpenCV, CUDA, NumPy, TensorBoard
+**languages** — JavaScript, TypeScript, Python, Java, C++
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=00D9FF&icon_color=00D9FF&text_color=EAEAEA&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=00D9FF&text_color=EAEAEA" width="40%" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,java,cpp,ts,js&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,redis,git&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark&perline=8" />
 
 </div>
 
 <br/>
 
-### ⟢ &nbsp;comm channels
+```
+$ ls projects/
+```
+
+**easystream** — async video transcoding pipeline (360p–1080p), adaptive bitrate
+streaming. Redis-backed job queue, S3 storage, Docker for the worker processes.
+`react · node · redis · s3 · ffmpeg · docker`
+
+**musily** — music streaming app with real-time features over sockets, playlist
+management, auth. Built solo, still adding to it.
+`react · node · mongodb · socket.io · typescript`
+
+**clearsight** — trained a pruned NAFNet to clean up images shot in rain, haze,
+fog. Team of 4, two weeks, mostly spent fighting OOM errors and tuning the
+cosine annealing schedule until it actually converged.
+`pytorch · cuda · opencv · lmdb · tensorboard`
+
+**sayone (internship)** — one month, internal CRM tooling, first real exposure
+to shipping code that other people depended on.
+`javascript · react · python · fastapi`
+
+<br/>
+
+```
+$ ./stats.sh
+```
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=00D9FF&labelColor=1A1A1A" /></a>
-<a href="mailto:amalkrishnaasok.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=00D9FF&labelColor=1A1A1A" /></a>
-<a href="https://github.com/amal-krishna123"><img src="https://img.shields.io/badge/-GitHub-1A1A1A?style=flat-square&logo=github&logoColor=00D9FF&labelColor=1A1A1A" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=amal-krishna123&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&icon_color=00FF41&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-krishna123&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00FF41&hide_title=true" width="38%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:0D0D0D&height=80&section=footer" width="100%"/>
+<br/>
+
+```
+$ cat contact.txt
+```
+
+email — amalkrishnaasok.mec@gmail.com
+linkedin — linkedin.com/in/YOUR_LINKEDIN
+github — github.com/amal-krishna123
+
+<div align="center">
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&width=800"/>
+
+`connection closed.`
+
+</div>
